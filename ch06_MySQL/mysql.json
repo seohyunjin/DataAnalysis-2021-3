@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "user" : "hkuser",
+    "password": "hkpass",
+    "database" : "world",
+    "port" : 3306
+}
