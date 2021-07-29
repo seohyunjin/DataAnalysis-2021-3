@@ -26,10 +26,14 @@
 - folium
 
 ## ch05. Crawling
-- melon
-- google
+- melon - BeautifulSoup
+- google - Selenium
 
 ## ch06. MySQL
 
 ## ch07. NLP
 - wordcloud
+
+## project
+- naver hotplace crawling
+- instagram crawling
