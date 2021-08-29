@@ -34,6 +34,7 @@
 ## ch07. NLP
 - wordcloud
 
-## project
+## team_project_따릉이를 따라
 - naver hotplace crawling
 - instagram crawling
+- distance calculate& hot-place random recommendation
